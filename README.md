@@ -1,32 +1,37 @@
-# 📊 Mobile Sales Dashboard (Power BI)
+# 📊 Motorola Sales Data Dashboard (Power BI)
 
-This project presents an interactive Mobile Sales Dashboard created using Power BI, with data sourced and processed from Microsoft Excel. The dashboard provides meaningful insights into mobile sales performance, helping users analyze trends and make data-driven decisions.
+This project showcases an interactive Power BI dashboard built to analyze Motorola mobile sales data across different cities, time periods, and customer segments. The dashboard transforms raw Excel data into meaningful insights for smarter business decisions.
 
-## 🔧 Tools & Technologies
-Power BI
-Microsoft Excel
-📁 Data Source
+## 🚀 Project Overview
+Imported and cleaned sales data from Excel
+Built a dynamic and interactive dashboard using Power BI
+Focused on sales performance, customer insights, and transaction trends
+Enabled easy filtering by month and mobile model
+## 📈 Key Metrics
+💰 Total Sales: 769M
+📦 Total Quantity Sold: 19K
+🧾 Transactions: 4K
+📊 Average Sales Value: 40K
+## 🔍 Dashboard Insights
+City-wise Sales Distribution (Map visualization)
+Monthly Sales Trends to track performance over time
+Top Mobile Models based on total sales
+Payment Method Analysis (UPI, Cash, Credit Card, Debit Card)
+Customer Ratings Breakdown
+Sales by Day of the Week for behavioral insights
+## 🛠️ Tools & Technologies
+Power BI (Dashboard & Visualization)
+Microsoft Excel (Data Source & Preprocessing)
+## 🎯 Features
+Interactive month-wise filter panel
+Clean and intuitive UI design
+Dynamic charts and KPIs
+Drill-down capabilities for deeper analysis
+## 📷 Dashboard Preview
+<img width="1039" height="585" alt="Snapshot Dashboard analysis (2)" src="https://github.com/user-attachments/assets/74db1608-2bba-49b2-b557-027f9cb71b00" />
 
-The dataset was imported from Excel and cleaned, transformed, and modeled within Power BI to ensure accurate analysis.
-
-## 📌 Key Features
-📈 Sales performance overview (total sales, revenue, quantity sold)
-📊 Category-wise and brand-wise analysis
-📅 Time-based trends (monthly/quarterly sales)
-🌍 Region-wise sales distribution
-🔍 Interactive filters and slicers for dynamic exploration
 
 
-## Dashboard Preview 
-<img width="1039" height="585" alt="Screenshot 2026-03-23 220911" src="https://github.com/user-attachments/assets/76cbf9e9-a637-424b-bf66-2b6546462743" />
+##📌 Conclusion
 
-
-
-## 🎯 Objective
-
-To build a user-friendly dashboard that transforms raw sales data into actionable insights for better business understanding and decision-making.
-
-## 🚀 Outcome
-Improved data visualization and storytelling skills
-Hands-on experience with Power BI dashboards
-Better understanding of sales analytics
+This dashboard provides a comprehensive view of Motorola sales performance, helping businesses identify trends, optimize strategies, and make data-driven decisions effectively.
