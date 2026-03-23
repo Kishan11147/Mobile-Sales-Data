@@ -2,7 +2,7 @@
 
 This project presents an interactive Mobile Sales Dashboard created using Power BI, with data sourced and processed from Microsoft Excel. The dashboard provides meaningful insights into mobile sales performance, helping users analyze trends and make data-driven decisions.
 
-##🔧 Tools & Technologies
+## 🔧 Tools & Technologies
 Power BI
 Microsoft Excel
 📁 Data Source
